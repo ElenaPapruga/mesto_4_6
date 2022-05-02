@@ -1,4 +1,15 @@
-# Проект: Место
+# Место
+# Проекты 4-6  в Яндекс-Практикуме (js, popup, валидация, лайки карточек)
+# [Посмотреть этот проект](https://elenapapruga.github.io/mesto_4-6/)
+* [Посмотреть дизайн в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+* [Чек-лист Проекта-6](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-6.pdf)
+
+## Техологии
+* BEM Methodology
+* CSS (Flexbox, Grid Layout, Animation and Transform)
+* Git
+* JavaScript (JS, validation)
+* Сборка Webpack
 
 ## Описание проекта
 Проект направлен о рассказе об уникальных местах России.
@@ -54,6 +65,8 @@ CSS
 * [Ссылка на проект GitHub](https://elenapapruga.github.io/mesto/)
 
 ## Планы по доработке
-В планах доработать и улучшить сайт при помощи отработки навыков по применению JS.
-
-
+В планах доработать и улучшить сайт при помощи отработки навыков по применению JS. 
+1. Перенос сайта Место на ОПП, подключение к серверу (Проект 7-9)
+2. Перенос сайта Место на React (Проект 10)
+3. Подключение сайта Место к библиотеке Mongo (Проект 13)
+4. Перенос сайта Место на виртуальную машину (Проект 15)
