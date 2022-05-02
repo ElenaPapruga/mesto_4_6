@@ -1,6 +1,6 @@
 # Место
 # Проекты 4-6  в Яндекс-Практикуме (js, popup, валидация, лайки карточек)
-# [Посмотреть этот проект](https://elenapapruga.github.io/mesto_4-6/)
+# [Посмотреть этот проект](https://elenapapruga.github.io/mesto_4_6/)
 * [Посмотреть дизайн в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
 * [Чек-лист Проекта-6](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-6.pdf)
 
